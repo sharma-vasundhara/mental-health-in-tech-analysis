@@ -95,11 +95,11 @@ Over the span of 5 years, there is significant decrease in people directly sayin
 Whereas, employees have started giving more importance to treatment in 2016 with rise of close to 7% from 2014. This indicates that there is increased awareness among employees about mental health over the period of 5 years.  
 <img src="unnamed-chunk-14-1.png" style="display: block; margin: auto;" />  
 
-**What were the sentiments of the respondents in the comments?**
+**What were the sentiments of the respondents in the comments?**  
 The most common words from the comment section are health, mental, and employer, which are neutral. The sentiment towards mental health is mostly negative regardless of gender and age groups, with the exception of the age group 18-20 who had a brighter view on said issue. 
 ![](unnamed-chunk-16-1.png)<!-- -->![](unnamed-chunk-16-2.png)<!-- -->![](unnamed-chunk-16-3.png)<!-- -->  
 
-**What were the most frequently used negative and positive words in the comments?**
+**What were the most frequently used negative and positive words in the comments?**  
 The frequently used negative words in the comments are `issues`, `depression`, `anxiety`, `negative`, etc. whereas the positive words are `benefits`, `supportive`, `comfortable`, `support`, etc.  
 <img src="unnamed-chunk-17-1.png" style="display: block; margin: auto;" />  
 
